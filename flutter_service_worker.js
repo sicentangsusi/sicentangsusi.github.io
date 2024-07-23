@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "437ae7c3ac1e3c31c5a1ef095d3876c0",
-"assets/AssetManifest.bin.json": "bc907eb84d6498eed187b077f74867ba",
-"assets/AssetManifest.json": "a7c7f9441d3cbe3d1630e35f86407099",
+const RESOURCES = {"assets/AssetManifest.bin": "cfd2b1c5068c2ecf5d44599b20f6c440",
+"assets/AssetManifest.bin.json": "da1f93fa9841c86421fb5cede106a836",
+"assets/AssetManifest.json": "d2874fa57b97ef534538183deaba9d1f",
 "assets/assets/educations/apa_itu_dbd.jpg": "dd8a23daab164981ddae8e39389318ee",
 "assets/assets/educations/cegah_3mplus.jpg": "537056f90c66e9041728e5c0ea6d02f7",
 "assets/assets/educations/daur_hidup_nyamuk.jpg": "c0222934cec1086ef443933537c51dc4",
@@ -17,9 +17,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "437ae7c3ac1e3c31c5a1ef095d3876c0
 "assets/assets/fonts/Montserrat-Italic-VariableFont_wght.ttf": "87a9f36eac8c031aff3af3957a14e81e",
 "assets/assets/fonts/Montserrat-VariableFont_wght.ttf": "e6cb49ef6502d09136c7302d56f4197b",
 "assets/assets/images/bg.jpg": "9eca61dd8ba7d605326cc5cf2a50a342",
-"assets/assets/images/bg.svg": "f86a190dc4ddfa9a61de94691d32b9f8",
-"assets/assets/images/Tanpa%2520judul.jpg": "df45ad353f0362b6880719d5a88975d5",
+"assets/assets/images/logo.png": "af2248489fe948e993a9e3e933d8d8b6",
 "assets/assets/privacy_policy.md": "6930abac67de0b57d8cb424abd116787",
+"assets/assets/templates/daftar_data_abj.xlsx": "7d2c96389721b31479d7cce108f64912",
+"assets/assets/templates/daftar_data_deteksi_dini.xlsx": "2c76c60d1a4fdfba1bd915e7ef381c37",
 "assets/FontManifest.json": "102ee5a3d74ca14582f6c7a215b60e08",
 "assets/fonts/MaterialIcons-Regular.otf": "8f0689018bc88ae3302ce485815eac83",
 "assets/NOTICES": "b86b132fa8707f2737b43464318dadd8",
@@ -37,16 +38,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "437ae7c3ac1e3c31c5a1ef095d3876c0
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "6346f278199f9310fb3a1678c022189c",
+"flutter_bootstrap.js": "bcdd65bbb7e9166476b632c55132d9dd",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "93841f3ed01fd86446c11c9f3e70e837",
-"/": "93841f3ed01fd86446c11c9f3e70e837",
-"main.dart.js": "ac25e91845f423da67a781423486f533",
+"index.html": "5af56f59f0bd07aa819f5d70e132aa65",
+"/": "5af56f59f0bd07aa819f5d70e132aa65",
+"main.dart.js": "d2a26f394a2012f6af0e6496d80b059f",
 "manifest.json": "667b56ebd324bd4dabe21ad3713a4a7c",
-"version.json": "4b4b648afc083887701cb491b51a0f98"};
+"version.json": "34a899335b0b32845f756b2f120dc973"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
