@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cfd2b1c5068c2ecf5d44599b20f6c440",
-"assets/AssetManifest.bin.json": "da1f93fa9841c86421fb5cede106a836",
-"assets/AssetManifest.json": "d2874fa57b97ef534538183deaba9d1f",
+const RESOURCES = {"assets/AssetManifest.bin": "2d3d7fa35f20336ac234764f458035a2",
+"assets/AssetManifest.bin.json": "202158874660bc293db54cbbe520fc01",
+"assets/AssetManifest.json": "c973b56f1f064cac9f07b36882ec7cee",
 "assets/assets/educations/apa_itu_dbd.jpg": "dd8a23daab164981ddae8e39389318ee",
 "assets/assets/educations/cegah_3mplus.jpg": "537056f90c66e9041728e5c0ea6d02f7",
 "assets/assets/educations/daur_hidup_nyamuk.jpg": "c0222934cec1086ef443933537c51dc4",
@@ -17,7 +17,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "cfd2b1c5068c2ecf5d44599b20f6c440
 "assets/assets/fonts/Montserrat-Italic-VariableFont_wght.ttf": "87a9f36eac8c031aff3af3957a14e81e",
 "assets/assets/fonts/Montserrat-VariableFont_wght.ttf": "e6cb49ef6502d09136c7302d56f4197b",
 "assets/assets/images/bg.jpg": "9eca61dd8ba7d605326cc5cf2a50a342",
-"assets/assets/images/logo.png": "af2248489fe948e993a9e3e933d8d8b6",
+"assets/assets/images/logo.png": "b1a9804a0a1fc8b889212915febfc37f",
+"assets/assets/images/logo_highcontrast.png": "1ce001f4df358af3387f13fe61339646",
 "assets/assets/privacy_policy.md": "6930abac67de0b57d8cb424abd116787",
 "assets/assets/templates/daftar_data_abj.xlsx": "7d2c96389721b31479d7cce108f64912",
 "assets/assets/templates/daftar_data_deteksi_dini.xlsx": "2c76c60d1a4fdfba1bd915e7ef381c37",
@@ -36,18 +37,21 @@ const RESOURCES = {"assets/AssetManifest.bin": "cfd2b1c5068c2ecf5d44599b20f6c440
 "canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
 "canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.ico": "61cc37f6662b7660aeb131e2179f8ca5",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "9b9747c75da942d22ddcd6666e2f6b44",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"flutter_bootstrap.js": "17799b5e24b7e6f9e8b847586e8657f0",
+"icons/apple-touch-icon.png": "605b41911040a340f96af4940629f275",
+"icons/icon-192-maskable.png": "0c1402b1437a00be78db9e39b3acb61e",
+"icons/Icon-192.png": "03333c048a07e4aa4d5707bf934e76f8",
+"icons/icon-512-maskable.png": "88404a433972acef11cfe2111d296895",
+"icons/Icon-512.png": "12ad76cd788fa25ebbc049c9d20dad66",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cbc817d8eae37aa7f46c4dca7447f868",
-"/": "cbc817d8eae37aa7f46c4dca7447f868",
+"index.html": "1f36daffd4e6a5adfe25f62c1a0cd7b1",
+"/": "1f36daffd4e6a5adfe25f62c1a0cd7b1",
 "main.dart.js": "c56a1ebf17f56f21eb33232878e87e88",
 "manifest.json": "667b56ebd324bd4dabe21ad3713a4a7c",
-"version.json": "96fbea082385caccd09add69405096cc"};
+"version.json": "49897ab1de7b1e413f7331759b6a7ddb"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
